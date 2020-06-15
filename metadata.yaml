@@ -1,5 +1,8 @@
 _repo: The-Plague-of-Lust-Vol-1-of-2-Being-a-History-of-Venereal-Disease-in-Classical-Antiquity_62300
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62300-h/images/cover.jpg
 creator:
   author:
     agent_name: Rosenbaum, Julius
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51883
     wikipedia: https://de.wikipedia.org/wiki/Julius_Rosenbaum_(Mediziner)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62300#The-Plague-of-Lust-Vol-1-of-2-Being-a-History-of-Venereal-Disease-in-Classical-Antiquity
 gutenberg_issued: '2020-06-01'
 gutenberg_type: Text
 identifiers:
